@@ -16,4 +16,4 @@ Steps to run the program:
    ![image](https://github.com/Est87/Simple-cryptocurrencies-price-tracker-web-api/assets/78466216/b7db5826-0825-4b26-bc9d-62f07b7ab331)
    ![image](https://github.com/Est87/Simple-cryptocurrencies-price-tracker-web-api/assets/78466216/55dd9c8a-cb6e-49b5-97fb-4a80ad907074)
 
-Note: coin list changes will be reflected in the coin.json file. Currently, this program only will store user data locally while the service is running, meaning if the service is stopped/restarted, all user data will be gone.
+Note: coin list changes will be reflected in the coin.json file. Currently, this program only will store user data locally while the service is running, meaning if the service is stopped/restarted, all user data (sign-up and sign-in info) will be gone. However, the coin changes will be preserved in the coin.json file.
