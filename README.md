@@ -1,4 +1,3 @@
-![image](https://github.com/Est87/Simple-cryptocurrencies-price-tracker-web-api/assets/78466216/d2371554-8c7c-4693-9002-6c8552f1f3f8)# Simple-cryptocurrencies-price-tracker-web-api
 JSON REST API service using Python FASTAPI of a simple cryptocurrencies price tracker web app.
 
 Steps to run the program:
