@@ -1,0 +1,7 @@
+fastapi
+pydantic
+SQLAlchemy
+uvicorn
+PyMySQL
+python-jose
+currencyconverter
